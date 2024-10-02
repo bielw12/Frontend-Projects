@@ -1,2 +1,2 @@
 # Projetos de Front-end
-Projetos pessoais, executado nas principais linguagens utilixadas no front-end. JavaScritps, HTML, CSS, React entre outras linguagens.
+Este repositório reúne uma seleção de projetos e scripts desenvolvidos em JavaScript, explorando diversas técnicas e conceitos fundamentais da programação. Os materiais aqui presentes visam tanto iniciantes quanto desenvolvedores mais experientes, oferecendo desde exemplos básicos até aplicações mais complexas utilizando frameworks populares como React e Node.js. Com o objetivo de fomentar a prática e a colaboração, este espaço encoraja contribuições e melhorias, tornando-se uma rica fonte de aprendizado e troca de conhecimentos no universo do desenvolvimento web.
